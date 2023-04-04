@@ -1,6 +1,5 @@
 (ns code-cracker.main 
-  (:require [clojure.string :as clojure.string]
-            [clojure.string :as s]))
+  (:require [clojure.string :as s]))
 
 (def dictionary {
 "!" "a" 
